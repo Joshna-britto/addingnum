@@ -1,2 +1,2 @@
 # addingnum
-adding two numbers
+basic python program for adding two numbers
